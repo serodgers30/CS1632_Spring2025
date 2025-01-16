@@ -6,7 +6,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 ## WEEK 1 (Week of 6 JAN)
 
 * Class 1
-  * Lecture: Course Introduction, Testing Theory (READING: AFIST, Chapters 2 - 4)
+  * Lecture: Course Introduction
   * Assignment releases
     * Partnership Contract on GradeScope
     * [Java Assessment Exercise](exercises/0)
@@ -14,30 +14,24 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 ## WEEK 2 (Week of 13 JAN)
 
 * Class 1
-  * Lecture: Requirements (READING: AFIST, Chapters 5)
-  * Assignment releases
-    * Listen to Test Plans Lecture (READING: AFIST, Chapters 6, 8)
-    * Listen to Defects Lecture (READING: AFIST, Chapters 9)
+  * Lecture: Testing Theory (READING: AFIST, Chapters 2 - 4)
 
 * Class 2
-  * In-class exercise: [Exercise 1: Test Plans](exercises/1)
+  * Lecture: Requirements (READING: AFIST, Chapters 5), Test Plans (READING: AFIST, Chapters 6, 8), Defects (READING: AFIST, Chapters 9)
   * Assignments due before class
     * Java Assessment Exercise
-    * Partnership Contract on GradeScope
-    * Listen to Test Plans Lecture (READING: AFIST, Chapters 6, 8)
-    * Listen to Defects Lecture (READING: AFIST, Chapters 9)
   * Assignment releases
+    * [Exercise 1: Test Plans](exercises/1)
     * [Deliverable 1](deliverables/1)
-    * Listen to Unit Testing Part 1 Lecture (READING: AFIST, Chapter 13)
-    * Listen to Test-driven Development Lecture (READING: AFIST, Chapter 15)
+    * Listen to Test-Driven Development Lecture (READING: AFIST, Chapter 15)
 
 ## WEEK 3 (Week of 20 JAN)
 
 * Class 1 
-  * Lecture: Unit Testing Part 2 (READING: AFIST, Chapter 14)
+  * Lecture: Unit Testing Part 1 (READING: AFIST, Chapter 13), Unit Testing Part 2 (READING: AFIST, Chapter 14)
   * Assignments due before class
-    * Listen to Unit Testing Part 1 Lecture (READING: AFIST, Chapter 13)
-    * Listen to Test-driven Development Lecture (READING: AFIST, Chapter 15)
+    * Partnership Contract on GradeScope
+    * Listen to Test-Driven Development Lecture (READING: AFIST, Chapter 15)
 
 * Class 2: 
   * In-class exercise: [Exercise 2: Unit Testing](exercises/2)
