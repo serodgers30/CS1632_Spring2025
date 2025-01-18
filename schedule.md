@@ -17,12 +17,13 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   * Lecture: Testing Theory (READING: AFIST, Chapters 2 - 4)
 
 * Class 2
-  * Lecture: Requirements (READING: AFIST, Chapters 5), Test Plans (READING: AFIST, Chapters 6, 8), Defects (READING: AFIST, Chapters 9)
+  * Lecture: Requirements (READING: AFIST, Chapters 5), Test Plans (READING: AFIST, Chapters 6, 8)
   * Assignments due before class
     * Java Assessment Exercise
   * Assignment releases
     * [Exercise 1: Test Plans](exercises/1)
     * [Deliverable 1](deliverables/1)
+    * Listen to Defects (READING: AFIST, Chapters 9)
     * Listen to Test-Driven Development Lecture (READING: AFIST, Chapter 15)
 
 ## WEEK 3 (Week of 20 JAN)
@@ -31,6 +32,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   * Lecture: Unit Testing Part 1 (READING: AFIST, Chapter 13), Unit Testing Part 2 (READING: AFIST, Chapter 14)
   * Assignments due before class
     * Partnership Contract on GradeScope
+    * Listen to Defects (READING: AFIST, Chapters 9)
     * Listen to Test-Driven Development Lecture (READING: AFIST, Chapter 15)
 
 * Class 2: 
