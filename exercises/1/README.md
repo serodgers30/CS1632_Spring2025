@@ -17,12 +17,11 @@ Spring Semester 2025 - Exercise 1
 
 # Description
 
-For this exercise, you and your partner will create a **test plan** for the
-CatScale application, based on the [requirements](requirements.md) listed.  You
-are asked to fill out the test plan on the provided [report template](ReportTemplate.docx).
-You will document test cases using the template provided in the [Creating a Test
-Plan](#creating-a-test-plan) section.  
-
+For this exercise, you will create a **test plan** for the CatScale
+application, based on the [requirements](requirements.md) listed.  You are
+asked to fill out the test plan on the provided [report
+template](ReportTemplate.docx).  You will document test cases using the
+template provided in the [Creating a Test Plan](#creating-a-test-plan) section.  
 You are also expected to find at least **three defects** in the system (you
 will be able to find more if you apply the empirical methods based on
 equivalence classes discussed in class).  Please report and resolve them
