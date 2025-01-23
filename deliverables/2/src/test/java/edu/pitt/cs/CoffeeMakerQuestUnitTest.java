@@ -22,18 +22,16 @@ public class CoffeeMakerQuestUnitTest {
 	@Before
 	public void setup() {
 		// 1. Create a Player with no items (no coffee, no cream, no sugar) and assign to player.
-		// Make sure you use the Player.createInstance method to create the player, or GradeScope autograder will not function properly.
+		// GradeScope relies on you to use the Player.createInstance interface to do this.
 		// TODO: Fill in
 
 		// 2. Create 6 rooms exactly as specified in rooms.config and add to rooms list.
-		// You are expected to hard-code the room configurations. The test cases in this
-		// class depend on those hard-coded values, so it would be pointless to allow
-		// them to be changed.
-		// Make sure you use the Room.createInstance method to create the rooms, or GradeScope autograder will not function properly.
+		// You are expected to hard-code the room configurations, as that is the test fixture.
+		// GradeScope relies on you to use the Room.createInstance interface to do this.
 		// TODO: Fill in
 
 		// 3. Create a CoffeeMakerQuest object using player and rooms and assign to cmq.
-		// Make sure you use the CoffeeMakerQuest.createInstance method to create cmq, or GradeScope autograder will not function properly.
+		// GradeScope relies on you to use the CoffeeMakerQuest.createInstance interface to do this.
 		// TODO: Fill in
 	}
 
