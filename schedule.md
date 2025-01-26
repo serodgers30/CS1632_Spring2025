@@ -40,7 +40,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   * Assignment releases
     * [Deliverable 2](deliverables/2)
 
-## WEEK 4 (Week of 3 FEB)
+## WEEK 4 (Week of JAN 27)
 
 * Class 1
   * Lecture: Automated vs. Manual Testing (READING: AFIST, Chapter 12), Behavior Driven Development
@@ -48,7 +48,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Class 2
   * In-class exercise: [Supplementary Exercise 1: Behavior Driven Development](exercises/Supplement1)
 
-## WEEK 5 (Week of 10 FEB)
+## WEEK 5 (Week of 3 FEB)
 
 * Class 1
   * Lecture: Automated System Testing
@@ -61,7 +61,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
     * [Deliverable 3](deliverables/3)
     * Listen to Writing Testable Code Lecture (READING: AFIST, Chapter 16)
 
-## WEEK 6 (Week of 17 FEB)
+## WEEK 6 (Week of 10 FEB)
 
 * Class 1
   * Lecture: Midterm 1 Q&A based on the [study guide](study_guides/midterm_1_study_guide.md)
@@ -70,7 +70,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2: Midterm 1 on GradeScope
 
-## WEEK 7 (Week of 24 FEB)
+## WEEK 7 (Week of 17 FEB)
 
 * Class 1
   * Lecture: Performance Testing (READING: AFIST, Chapter 19)
@@ -82,13 +82,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   * Assignment releases
     * [Deliverable 4](deliverables/4)
 
-## WEEK 8 (Week of 3 MAR)
-
-* Class 1: NO CLASS (Spring Break)
-
-* Class 2: NO CLASS (Spring Break)
-
-## WEEK 9 (Week of 10 MAR)
+## WEEK 8 (Week of 24 FEB)
 
 * Class 1
   * Lecture: Stochastic and Property-Based Testing Lecture (READING: AFIST, Chapter 18)
@@ -98,7 +92,13 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   * Assignments due before class
     * Listen to Stochastic and Property-Based Testing Lecture (READING: AFIST, Chapter 18)
 
-## WEEK 10 (Week of 17 MAR)
+## WEEK 9 (Week of 3 MAR)
+
+* Class 1: NO CLASS (Spring Break)
+
+* Class 2: NO CLASS (Spring Break)
+
+## WEEK 10 (Week of 10 MAR)
 
 * Class 1
   * Lecture: Software QA and Nondeterminism
@@ -110,7 +110,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   * Assignment releases
     * Listen to Static Analysis Part 1 Lecture
 
-## WEEK 11 (Week of 24 MAR)
+## WEEK 11 (Week of 17 MAR)
 
 * Class 1
   * In-class exercise: [Exercise 5 Part 1: Linters and Bug Finders](exercises/5)
@@ -120,7 +120,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Class 2
   * Lecture: Software QA and Nondeterminism (cont'd), Static Analysis Part 2
 
-## WEEK 12 (Week of 31 MAR)
+## WEEK 12 (Week of 24 MAR)
 
 * Class 1
   * In-class exercise: [Exercise 5 Part 2: Model Checking](exercises/5)
@@ -132,7 +132,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Class 2
   * Lecture: Static Analysis Part 3, Smoke and Exploratory Testing (READING: AFIST, Chapters 10-11)
 
-## WEEK 13 (Week of 7 APR)
+## WEEK 13 (Week of 31 MAR)
 
 * Class 1
   * In-class exercise: [Supplementary Exercise 4 Part 1: CI Pipelines](exercises/Supplement4)
@@ -140,7 +140,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Class 2
   * In-class exercise: [Supplementary Exercise 4 Part 2: Dockers](exercises/Supplement4)
 
-## WEEK 14 (Week of 14 APR)
+## WEEK 14 (Week of 7 APR)
 
 * Class 1
   * Lecture: Pairwise and Combinatorial Testing (READING: AFIST, Chapter 17)
@@ -148,15 +148,17 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Class 2
   * Lecture: Security Testing (READING: AFIST, Chapter 20)
 
-## WEEK 15 (Week of 21 APR)
+## WEEK 15 (Week of 14 APR)
 
 * Industry Guest Lectures (TBD)
 
-## WEEK 16 (Week of 28 APR)
+## WEEK 16 (Week of 21 APR)
 
 * Class 1
   * Lecture: Midterm 2 Q&A based on the [study guide](study_guides/midterm_2_study_guide.md)
 
 * Midterm 2 on final exam date.
+
+## WEEK 17 (Week of 28 APR)
 
 * Deliverable 5 due Wednesday (4/30) 11:59 PM
