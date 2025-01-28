@@ -18,7 +18,7 @@
 # CS 1632 - Software Quality Assurance
 Spring Semester 2025 - Exercise 2
 
-* DUE: January 30 (Thursday), 2025 before start of class
+* DUE: February 4 (Tuesday), 2025 before start of class
 
 **GitHub Classroom Link:** https://classroom.github.com/a/Ud3omI0z
 
