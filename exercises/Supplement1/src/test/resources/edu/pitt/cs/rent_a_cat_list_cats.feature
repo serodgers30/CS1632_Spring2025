@@ -19,7 +19,7 @@ Rule: When there are cats, the listing consists of one line per each cat.
 Scenario: List available cats with 1 cat
 Given a rent-a-cat facility
 Given a cat with ID 1 and name "Jennyanydots"
-When I list the cats
+When I list the cat
 Then the listing is: "ID 1. Jennyanydots\n"
 
 Scenario: List available cats with 2 cats

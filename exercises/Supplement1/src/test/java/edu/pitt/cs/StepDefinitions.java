@@ -28,7 +28,7 @@ public class StepDefinitions {
 		System.out.println("Created cat " + id + ". " + name);
 	}
 	
-	@When("I list the cats")
+	@When("I list the cat(s)")
 	public void iListTheCats() {
 		listResult = r.listCats();
 	}
