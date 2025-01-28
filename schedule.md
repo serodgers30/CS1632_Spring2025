@@ -52,8 +52,6 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 1
   * Lecture: Automated System Testing
-  * Assignments due before class
-    * Deliverable 1
 
 * Class 2
   * In-class exercise: [Exercise 3: Automated System Testing](exercises/3)
@@ -66,7 +64,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Class 1
   * Lecture: Midterm 1 Q&A based on the [study guide](study_guides/midterm_1_study_guide.md)
   * Assignments due before class
-    * Deliverable 2
+    * Deliverable 1
 
 * Class 2: Midterm 1 on GradeScope
 
@@ -75,6 +73,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Class 1
   * Lecture: Performance Testing (READING: AFIST, Chapter 19)
   * Assignments due before class
+    * Deliverable 2
     * Listen to Writing Testable Code Lecture (READING: AFIST, Chapter 16)
 
 * Class 2
