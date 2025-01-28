@@ -19,7 +19,7 @@ Spring Semester 2025 - Supplementary Exercise 1
 
 * DUE: February 6 (Thursday), 2025 before start of class
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/H65R8zex
 
 ## Description
 
