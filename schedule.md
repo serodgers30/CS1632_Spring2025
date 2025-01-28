@@ -43,7 +43,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 ## WEEK 4 (Week of JAN 27)
 
 * Class 1
-  * Lecture: Automated vs. Manual Testing (READING: AFIST, Chapter 12), Behavior Driven Development
+  * Lecture: Behavior Driven Development
 
 * Class 2
   * In-class exercise: [Supplementary Exercise 1: Behavior Driven Development](exercises/Supplement1)
