@@ -25,7 +25,7 @@
 
 * DUE: February 11 (Tuesday), 2025 before start of class
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/upnbd5Q4
 
 ## Description
 
