@@ -67,6 +67,14 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
     * Deliverable 1
 
 * Class 2: Midterm 1 on GradeScope
+  * Steps:
+    1. Do TopHat attendance at start of class.  If no attendance, grade will not be counted.
+    2. Click on assignment "Midterm 1" on GradeScope (will appear at start of class).
+    3. Click on the "Start Assignment" button.  There will be a count down timer on the top right once you start.
+    4. Finish and submit the exam within 75 minutes.  You can submit multiple times.
+  * Optionally, you can try the "Sample GradeScope Exam (For Practice)" to get used to the mechanics.
+  * Exam is open book (Lecture slides, notes, textbook, exercises and deliverables, use of Java Development Kit or VSCode are permitted).
+  * Exam is individual work (use of generative AI is banned).
 
 ## WEEK 7 (Week of 17 FEB)
 
