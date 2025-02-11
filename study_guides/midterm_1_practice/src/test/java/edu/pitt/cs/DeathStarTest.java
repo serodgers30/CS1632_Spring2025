@@ -21,6 +21,15 @@ public class DeathStarTest {
 	@Test
 	public void testShootPlanetIntegration() {
 		// TODO: Fill in!
+
+		//Precondition
+		DeathStar deathStar = new DeathStar();
+		Planet planet = new Planet(10);
+
+		//Execution Steps
+		deathStar.shoot(planet);
+
+		
 		fail();
 	}
 
