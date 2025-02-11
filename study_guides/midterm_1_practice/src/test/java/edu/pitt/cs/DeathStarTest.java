@@ -3,6 +3,8 @@ package edu.pitt.cs;
 import static org.junit.Assert.*;
 import org.mockito.*;
 
+import io.cucumber.java.Before;
+
 import org.junit.Test;
 
 public class DeathStarTest {
@@ -22,15 +24,20 @@ public class DeathStarTest {
 	public void testShootPlanetIntegration() {
 		// TODO: Fill in!
 
-		//Precondition
+		//Preconditions
 		DeathStar deathStar = new DeathStar();
 		Planet planet = new Planet(10);
 
 		//Execution Steps
-		deathStar.shoot(planet);
+		String result = deathStar.shoot(planet);
+		String expected = "Wimpy planet was hit by the superlaser!";
+		int hpResult = planet.getHitPoints();
+
+		//Postconditions
+		assertEquals(expected, result);
 
 		
-		fail();
+		assertEquals(-90, hpResult);
 	}
 
 	/**
