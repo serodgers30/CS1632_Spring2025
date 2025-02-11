@@ -29,9 +29,9 @@
 
 ## Description
 
-For this assignment, you and a partner will write a systems-level, automated
-black-box tests for the Pitt website using the Selenium IDE.  Specifically,
-we are going to test the URL:
+For this assignment, you will write a systems-level, automated black-box tests
+for the Pitt website using the Selenium IDE.  Specifically, we are going to
+test the URL:
 
 https://www.pitt.edu/
 
