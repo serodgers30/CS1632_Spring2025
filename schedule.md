@@ -81,7 +81,6 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Class 1
   * Lecture: Performance Testing (READING: AFIST, Chapter 19)
   * Assignments due before class
-    * Deliverable 2
     * Listen to Writing Testable Code Lecture (READING: AFIST, Chapter 16)
 
 * Class 2
@@ -93,6 +92,8 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 1
   * Lecture: Stochastic and Property-Based Testing Lecture (READING: AFIST, Chapter 18)
+  * Assignments due before class
+    * Deliverable 2
 
 * Class 2
   * In-class exercise: [Supplementary Exercise 2: Property-based Testing](exercises/Supplement2)
