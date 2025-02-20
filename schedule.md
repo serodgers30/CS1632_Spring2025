@@ -158,6 +158,10 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 15 (Week of 14 APR)
 
+* April 15, 1:00PM - 2:15PM: [Aerotech](https://www.aerotech.com/) guest lecture
+  * Speaker: Nate Homitsky, Vice President of Information [LinkedIn](https://www.linkedin.com/in/nate-homitsky-6912a5a3/)
+  * Speaker: Ross Kabus, Software Engineering Team Lead [LinkedIn](https://www.linkedin.com/in/rkabus/)
+
 * Industry Guest Lectures (TBD)
 
 ## WEEK 16 (Week of 21 APR)
