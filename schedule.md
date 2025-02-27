@@ -97,8 +97,6 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2
   * In-class exercise: [Supplementary Exercise 2: Property-based Testing](exercises/Supplement2)
-  * Assignments due before class
-    * Listen to Stochastic and Property-Based Testing Lecture (READING: AFIST, Chapter 18)
 
 ## WEEK 9 (Week of 3 MAR)
 
