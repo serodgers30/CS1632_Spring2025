@@ -25,7 +25,7 @@ Spring Semester 2025 - Exercise 5
 
 * DUE: March 25 (Tuesday), 2025 before start of class
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/GRYwTLcL
 
 ## Description
 
@@ -1018,7 +1018,7 @@ https://github.com/javapathfinder/jpf-core/wiki/Verify-API-of-JPF
 
 * DUE: April 30 (Wednesday), 2025 11:59 PM
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/qmyRv2sl
 
 For this extra credit, you will learn how to use the Java Path Finder to debug
 nondeterministic programs due to parallelism.  You will encounter problems such
