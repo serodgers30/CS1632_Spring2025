@@ -199,7 +199,7 @@ at the details of the Rule that the warning violated.
 
 Here is a link to the CheckStyle reference, in case you need it:
 
-https://checkstyle.sourceforge.io/checks.html  
+https://checkstyle.org/checks.html  
 
 ## Try rerunning the application
 
@@ -269,7 +269,7 @@ point for each CheckStyle or SpotBugs warning.
 ## Resources
 
 * CheckStyle reference:  
-https://checkstyle.sourceforge.io/checks.html  
+https://checkstyle.org/checks.html
 
 * SpotBugs reference:  
 https://spotbugs.readthedocs.io/en/latest/bugDescriptions.html
