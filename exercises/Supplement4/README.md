@@ -70,7 +70,7 @@ for testing and deployment.
 
 ## Part 1: CI/CD Pipelines
 
-**GitHub Classroom Link:** https://classroom.github.com/a/f33Zeip_
+**GitHub Classroom Link:** [https://classroom.github.com/a/f33Zeip_](https://classroom.github.com/a/f33Zeip_)
 
 In Part 1, you will learn how to create a pipeline from scratch based on the
 Rent-A-Cat application for Exercise 2, using the CI/CD support provided by
