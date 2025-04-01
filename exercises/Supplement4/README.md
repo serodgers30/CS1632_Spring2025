@@ -25,7 +25,7 @@
 # CS 1632 - Software Quality Assurance
 Spring Semester 2025 - Supplementary Exercise 4
 
-* DUE: April 15 (Tuesday), 2025 before start of class
+* DUE: April 11 (Friday), 2025 11:59 PM
 
 ## Description
 
