@@ -161,6 +161,9 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   * Speaker: Ross Kabus, Software Engineering Team Lead [LinkedIn](https://www.linkedin.com/in/rkabus/)
 
 * Class 2: [CGI](https://www.cgi.com/) guest lecture
+  * Speaker: Laks Ranganathan, CGI Partner | Director - Consulting Services [LinkedIn](https://www.linkedin.com/in/lakshmi-narasimhan-yeri-ranganathan-4b7b874b/)
+  * Speaker: Sharath Chandran, Director, Consulting Expert [LinkedIn](https://www.linkedin.com/in/sharath-chandran-6a9b7110/)
+  * Speaker: Satish Dupati, Senior Consultant [LinkedIn](https://www.linkedin.com/in/satishdupati/)
 
 
 ## WEEK 16 (Week of 21 APR)
