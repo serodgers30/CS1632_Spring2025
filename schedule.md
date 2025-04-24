@@ -174,6 +174,14 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Midterm 2 on final exam date.
   * 1100 Section (1:00 - 2:15 Section): 4/28 (Monday) 8:00 - 10:00 AM at G36 Benedum Hall
   * 1130 Section (4:00 - 5:15 Section): 4/25 (Friday) 10:00 AM - 12:00 PM at IS 305
+  * Steps:
+    1. Do TopHat attendance at start of class.  If no attendance, grade will not be counted.
+    2. Click on assignment "Midterm 2" on GradeScope (will appear at start of class).
+    3. Click on the "Start Assignment" button.  There will be a count down timer on the top right once you start.
+    4. Finish and submit the exam within 75 minutes.  You can submit multiple times.
+  * Optionally, you can try the "Sample GradeScope Exam (For Practice)" to get used to the mechanics.
+  * Exam is open book (Lecture slides, notes, textbook, exercises and deliverables, use of Java Development Kit or VSCode are permitted).
+  * Exam is individual work (use of generative AI is banned).
 
 ## WEEK 17 (Week of 28 APR)
 
