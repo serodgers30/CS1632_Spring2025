@@ -51,7 +51,6 @@ variability when measuring response time.
 * Be able to define real time (wall clock time), user time, system time, and
   total time accurately.  Be able to explain why certain types of time may be
 important when measuring certain performance indicators.
-* Be able to explain what the "nines" notation means for availability.
 * Be able to explain why availability is hard to measure directly.
 * Be able to explain how baseline, soak (stability), and stress load testing
   can help model availability.
